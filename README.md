@@ -76,8 +76,15 @@ L'algoritmo di ordinamento segue lo stesso criterio: è presente un'istanza astr
 Sono poi presenti le Enumeration "SortingAlgorithm" e "MapImplementation" per memorizzare la configurazione corrente.
 Grazie all'uso di classi astratte sia per le strutture dati, sia per l'ordinamento, l'implementazione delle funzioni è unica a prescindere dalla configurazione.
 
------------------------------------------------------------
-		Istruzioni per la compilazione
+---------------------------------------------------------------------------
+					Istruzioni per la compilazione
 Nel package "digregoriozecca" è presente una classe MovidaTester, con dei test già inclusi.
 Altrimenti è possibile istanziare un oggetto di classe MovidaCore attravero il costruttore e usare i metodi forniti dalla classe.</br>
-Progetto realizzato da Andrea Zecca e Giorgio Di Gregorio.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Anno Accademico: 2019-2020					    
+Co-authored-by: Andrea Zecca 
+Co-authored-by: Giorgio Di Gregorio
+							            
+                                                                    
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
